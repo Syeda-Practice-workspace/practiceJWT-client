@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "jwt",
+	"webDir": "dist",
+	"bundledWebRuntime": false
+}
